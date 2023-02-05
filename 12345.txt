@@ -1,0 +1,6 @@
+John: has joined Sheffield Hallam University Community Chat Server.
+{"from":"John","body":"","when":"10.17.56"}
+{"from":"John","body":"Anyone here from CS department?","when":"10.18.11"}
+Alice: has joined Sheffield Hallam University Community Chat Server.
+{"from":"Alice","body":"","when":"10.18.46"}
+{"from":"Alice","body":"I am from CS department","when":"10.19.21"}
